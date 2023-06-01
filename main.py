@@ -1,4 +1,4 @@
-# Joseph Merritt - Student ID:009456285
+# Joseph Merritt
 
 from packages import *
 import distances
